@@ -1,0 +1,18 @@
+
+.top-line {
+    background: aqua;
+   border-radius: 5px 5px 0 0;
+}
+.grouped_contents {
+    border-radius: 0 0 5px 5px;
+}
+.hilighted_detail_out {
+    border-radius: 0 0 5px 5px;
+}
+#bar_content {
+    border-radius: 0 0 5px 5px;
+}
+.privacy_note {
+    color: black!important;
+    text-shadow: none!important;
+}
